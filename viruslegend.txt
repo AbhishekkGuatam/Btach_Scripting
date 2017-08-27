@@ -1,0 +1,20 @@
+X=Msgbox("Message here"0+16"tittle here") into Notepad.
+
+// this is to iritate us
+
+To change the symbol(right number):
+16 - critical message icon
+32 - question message icon
+48 - warning message icon
+64 - info message icon
+
+To change the buttons(lift number):
+
+0 - ok button only 
+1 - ok and cancel
+2 - abort, retry and ignore
+3 - yes no and cancel
+4 - yes and no
+5 - retry and cancel
+
+@echo off
